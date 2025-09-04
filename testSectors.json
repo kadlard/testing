@@ -1,0 +1,4 @@
+[
+  "https://cds-gcsignin-dev.verify.ibm.com/auth/redirect",
+  "http://localhost:8080/auth/callback/client1"
+]
