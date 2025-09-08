@@ -1,4 +1,6 @@
 [
   "https://cds-gcsignin-dev.verify.ibm.com/auth/redirect",
-  "http://localhost:8080/auth/callback/client1"
+  "http://localhost:8080/auth/callback/client1",
+  "http://localhost:8080/auth/callback/client3",
+  "http://localhost:3000/link/callback/client4"
 ]
